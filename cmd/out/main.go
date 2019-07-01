@@ -7,7 +7,7 @@ import (
   "os"
   "path"
 
-  "github.com/ECSTeam/twitter-resource/concourse"
+  "github.com/legnoh/twitter-resource/concourse"
   "github.com/ChimeraCoder/anaconda"
 )
 
